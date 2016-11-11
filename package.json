@@ -1,0 +1,17 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cucumber": "^0.9.2",
+    "selenium-webdriver": "^3.0.0-beta-3",
+    "yargs": "^3.7.2",
+    "chromedriver": "2.15.1"
+  }
+}
